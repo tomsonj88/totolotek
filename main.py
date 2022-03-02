@@ -48,5 +48,3 @@ total_cost = count_lottery_ticket_cost(lottery_quantity, lottery_ticket_price)
 
 print(f"You need {lottery_quantity:,} lotteries to win")
 print(f"You have to spend {total_cost:,} zloty to win")
-
-
